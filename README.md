@@ -1,8 +1,26 @@
-# Volleyball Rotation App (Expo + TypeScript)
+<h1 align="center">🏐 VolleyFlow</h1>
+<p align="center">A clean, visual volleyball rotation app built with Expo + TypeScript</p>
 
-A clean 9‑person volleyball rotation visualizer with 6–2 / 5–1 modes, legality checks, and PNG/PDF export.
+<p align="center">
+  <img src="screenshots/ChatGPT%20Image%20Nov%2010,%202025,%2008_33_25%20PM.png" width="260" />
+</p>
 
-## Features
+<p align="center">
+  <a href="https://expo.dev">
+    <img src="https://img.shields.io/badge/Expo-48.0-black?logo=expo&logoColor=white" />
+  </a>
+  <a href="https://reactnative.dev">
+    <img src="https://img.shields.io/badge/React_Native-mobile-blue?logo=react" />
+  </a>
+  <a href="https://www.typescriptlang.org">
+    <img src="https://img.shields.io/badge/TypeScript-typed-3178C6?logo=typescript" />
+  </a>
+</p>
+
+---
+
+## ✨ Features
+
 - 3×3 grid (zones **1–6** + off‑court **O1–O3**) with **drag & snap** player chips
 - **Rotate ↻** button moves the full 9‑person ring clockwise (including off‑court)
 - **Mode toggle** 6–2 ↔ 5–1 with **active setter** badge (**S***)
@@ -41,4 +59,7 @@ Open on your phone with **Expo Go** (scan the QR), or press **i** for iOS simula
 
 ![Court Screenshot](screenshots/court.png)
 
+---
+
+<p align="center">Made with ❤️ by Tom Hornberger</p>
 
