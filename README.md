@@ -34,4 +34,8 @@ Open on your phone with **Expo Go** (scan the QR), or press **i** for iOS simula
 ## Notes
 - Active setter: **6–2** chooses whichever setter is **back‑row**; **5–1** always uses **Setter1 (p1)**.
 - Legality errors are outlined on chips and summarized in a banner.
-- Export buttons will open your platform’s share sheet.# VolleyFlow
+- Export buttons will open your platform’s share sheet.## 🖼️ Screenshot
+
+![Court Screenshot](screenshots/court.png)
+
+
